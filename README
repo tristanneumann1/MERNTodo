@@ -1,0 +1,7 @@
+Dev Setup:
+
+npm run start:dev
+
+and on a new terminal:
+
+npm run build:dev
